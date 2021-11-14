@@ -1,0 +1,6 @@
+export const GET_CURRENCIES = "GET_CURRENCIES";
+export const GET_CONVERSION = "GET_CONVERSION";
+export const SET_AMOUNT = "SET_AMOUNT";
+export const SET_BASE_CURRENCY = "SET_BASE_CURRENCY";
+export const SET_DATE = "SET_DATE";
+export const SET_CONVERTED_AMOUNT = "SET_CONVERTED_AMOUNT";
